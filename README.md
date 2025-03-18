@@ -59,3 +59,6 @@ npx prisma init
 
 14. n8n.io project - ferramenta para criar fluxos no-code - usaremos para conectar com nossa app
     pwd: PE2p6EDZrmnSvsGm
+
+git of the course
+https://github.com/portfolio-projetos-dev
